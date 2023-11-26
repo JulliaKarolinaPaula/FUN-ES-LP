@@ -7,7 +7,7 @@ int num_maior(int a, int b){
     if(a > b){
         maior = a;
     } else if(a == b){
-        printf("Valores Iguais");
+        printf("Valores Iguais\n");
     } else{
         maior = b;
     }
@@ -20,7 +20,7 @@ int main(void){
 
     resultado = num_maior(x,y);
 
-    printf("O maior numero e: %d", resultado);
+    printf("%d", resultado);
 
     return 0;
 }
