@@ -1,5 +1,6 @@
 /*QUESTÃO 06: Faça uma função capaz de receber dois números b e h que representam os lados de um 
 retângulo ou quadrado, e retornar 1 se ele for um quadrado ou 0 se for um retângulo.*/
+#include <stdio.h>
 int confer_lados(int x,int y){
     int lado;
 
