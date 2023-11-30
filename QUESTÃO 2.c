@@ -13,7 +13,7 @@ int num_maior(int a, int b){
     }
     return(maior);
 }
-int main(void){
+int main(){
     int x,y,resultado;
     scanf("%d", &x);
     scanf("%d", &y);
