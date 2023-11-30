@@ -8,7 +8,7 @@ void sequencia(int x){
     }
 }
 
-int main(void){
+int main(){
     int n;
 
     scanf("%d", &n);
