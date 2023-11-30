@@ -7,7 +7,7 @@ double delta(double a,double b,double c){
     delta = (pow(b,2)) - 4*a*c;
     return(delta);
 }
-int main(void){
+int main(){
     double x=0, y=0, z=0, resultado = 0;
     int n=1;
     
