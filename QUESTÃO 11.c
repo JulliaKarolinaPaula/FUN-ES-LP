@@ -9,13 +9,9 @@ void divisores(int x){
             printf("%d\n", i);
         }
     }
-<<<<<<< HEAD
-=======
-    return 0;
->>>>>>> e0a8abf93913f3d395ce767af8b41a69dbac3a98
 }
 
-int main(void){
+int main(){
     int n;
 
     scanf("%d", &n);
